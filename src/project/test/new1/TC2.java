@@ -12,7 +12,7 @@ public class TC2 {
 
         boolean a;
 
-        String test = null;
+        String test = "wow";
 
         if( "wow".equals(test)){
             System.out.println("1");
@@ -24,5 +24,5 @@ public class TC2 {
         }
     }
 
-    /* 2 */
+    /* 3 */
 }
